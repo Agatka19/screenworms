@@ -153,7 +153,6 @@ namespace
                     break;
 
                 case 'r':
-                    //atoi(optarg)
                     gui_port = atoi(optarg);
                     break;
 
